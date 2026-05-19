@@ -61,7 +61,7 @@
       "value": "div.slds-modal__header h2.slds-modal__title",
       "source": "TC002",
       "firstSeen": "2026-05-04",
-      "lastUsed": "2026-05-05"
+      "lastUsed": "2026-05-19"
     },
     "saveEdit": {
       "type": "css",
@@ -82,7 +82,7 @@
       "value": "div.forceVisualMessageList ul li",
       "source": "TC002",
       "firstSeen": "2026-05-04",
-      "lastUsed": "2026-05-05"
+      "lastUsed": "2026-05-19"
     },
     "name": {
       "type": "css",
